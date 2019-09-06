@@ -1,4 +1,4 @@
-# Aliyun DirectMail for Laravel 5
+# Aliyun DirectMail for Laravel 5/6
 
 使用阿里云的 DirectMail 发送邮件。
 
@@ -9,7 +9,7 @@
 1. 使用 `composer` 安装文件
 
    ```bash
-   composer require hyancat/aliyun-direct-mail:dev-master
+   composer require digitalsign/mail
    ```
 
 1. 在 `config/services.php` 中添加如下配置:
